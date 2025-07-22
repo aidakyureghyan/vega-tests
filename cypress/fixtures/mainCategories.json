@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Աուդիո-վիդեո և ֆոտո",
+    "expectedUrl": "/aowdio-video-tekhnika/"
+  },
+  {
+    "name": "Համակարգիչներ եվ աքսեսուարներ",
+    "expectedUrl": "/hamakargichner-ew-noowtbowker/"
+  },
+  {
+    "name": "Հեռախոսներ եվ գաջեթներ",
+    "expectedUrl": "/herhakhosner-ev-aksesowarner/"
+  },
+  {
+    "name": "Խոշոր կենցաղային տեխնիկա",
+    "expectedUrl": "/khoshor-kentsaghayin/"
+  },
+  {
+    "name": "Խաղային համակարգեր",
+    "expectedUrl": "/khaghayin-hamakarger-2/"
+  },
+  {
+    "name": "Ջեռուցում և հովացում",
+    "expectedUrl": "/jerhowtsowm-ew-hovatsowm/"
+  },
+  {
+    "name": "Խոհանոցային տեխնիկա",
+    "expectedUrl": "/khohanots-ev-town/"
+  },
+  {
+    "name": "Կենցաղային տեխնիկա",
+    "expectedUrl": "/kentsaghayin-tekhnika/"
+  },
+  {
+    "name": "Գեղեցկություն և խնամք",
+    "expectedUrl": "/geghetskowtyown-ew-khnamk/"
+  },
+  {
+    "name": "Խելացի տուն",
+    "expectedUrl": "/khelatsi-town-2/"
+  }
+]
